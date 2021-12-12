@@ -1,0 +1,1 @@
+http --verbose -a asd:qwe POST localhost:5102/posts/ @"$1"
